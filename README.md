@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Overview
 This project, completed as part of my internship at **SkillCraft Technology**, analyzes the Titanic dataset to uncover insights into passenger survival patterns. The dataset includes 891 passengers with features like passenger class, sex, age, fare, and more. Using **Exploratory Data Analysis (EDA)**, I explored relationships between these variables and survival rates, visualized key trends, and documented the findings.
